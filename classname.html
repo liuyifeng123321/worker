@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            width: 200px;
+            height: 200px;
+            background-color: aquamarine;
+        }
+        .click{
+            width: 400px;
+            height: 400px;
+            background-color: blueviolet;
+        }
+    </style>
+    <script>
+        //操作classname的
+        window.addEventListener('load',function(){
+            //获取div
+            var divs = document.querySelector('div')
+            divs.addEventListener('click',function(){
+                divs.className = 'click'
+            })
+        })
+    </script>
+</head>
+<body>
+    <div></div>
+    
+</body>
+</html>
