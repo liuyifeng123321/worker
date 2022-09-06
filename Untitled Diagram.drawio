@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-09-05T09:59:42.318Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="u9U4MlegfOISJ-v9YPO7" version="20.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-09-06T10:06:20.142Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="LIdaPKR7nrksBYPWFQCP" version="20.2.8" type="github" pages="2">
   <diagram id="GEklgDhc1H4WAajkZLwl" name="Page-1">
-    <mxGraphModel dx="4790" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4790" dy="1104" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1925,30 +1925,126 @@
     </mxGraphModel>
   </diagram>
   <diagram id="OK8wlSTP_FPMu8G19tZo" name="第 2 页">
-    <mxGraphModel dx="1990" dy="1565" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1537" dy="1031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-1" value="性能分析子系统数据获取" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-1" value="性能分析子系统数据获取" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="240" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-2" value="性能分析子系统数据处理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-2" value="性能分析子系统数据处理" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="160" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-3" value="基于快照的内存性能分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-3" value="基于快照的内存性能分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="127.5" y="40" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-4" value="面向共享资源的资源征用分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-4" value="面向共享资源的资源征用分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="177.5" y="40" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-6" value="面向代码的性能分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-6" value="面向代码的性能分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="227.5" y="40" width="40" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-7" value="基于处理器性能监控部件（PMU）&lt;br&gt;的性能分析" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-7" value="基于处理器性能监控部件（PMU）&lt;br&gt;的性能分析" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="277.5" y="40" width="55" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="yHLS0KPMVYMd4Ae64oAX-8" value="性能分析子系统的用户界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="yHLS0KPMVYMd4Ae64oAX-8" value="性能分析子系统的用户界面" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="120" y="-40" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="420" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-3" value="输入主机名，端口号，数据库用户名和密码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-4" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t67GGYlEOjdN8TZdFH2Q-1" target="t67GGYlEOjdN8TZdFH2Q-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="880" as="sourcePoint" />
+            <mxPoint x="340" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-5" value="输入信息检测" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="160" y="660" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-9" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="t67GGYlEOjdN8TZdFH2Q-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="880" as="sourcePoint" />
+            <mxPoint x="320" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="510" as="sourcePoint" />
+            <mxPoint x="320" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-11" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="510" as="sourcePoint" />
+            <mxPoint x="210" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-12" value="输入信息错误" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="570" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="t67GGYlEOjdN8TZdFH2Q-3" target="t67GGYlEOjdN8TZdFH2Q-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="750" as="sourcePoint" />
+            <mxPoint x="390" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-14" value="连接数据库成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="780" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-15" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t67GGYlEOjdN8TZdFH2Q-5" target="t67GGYlEOjdN8TZdFH2Q-14">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="840" as="sourcePoint" />
+            <mxPoint x="390" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-16" value="输入信息检测通过" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="730" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-17" value="双击进入需要操作的数据表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="900" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-18" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="t67GGYlEOjdN8TZdFH2Q-14" target="t67GGYlEOjdN8TZdFH2Q-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="940" as="sourcePoint" />
+            <mxPoint x="390" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-19" value="点击插入按钮" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1040" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-20" value="以弹出框显示插入字段文本框" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-21" value="按字段输入插入信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-22" value="插入信息检测" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1400" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-23" value="数据插入成功" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="1520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-25" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="t67GGYlEOjdN8TZdFH2Q-17">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1000" as="sourcePoint" />
+            <mxPoint x="390" y="1040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-26" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1000" as="sourcePoint" />
+            <mxPoint x="-100" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="t67GGYlEOjdN8TZdFH2Q-27" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="t67GGYlEOjdN8TZdFH2Q-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-100" y="1000" as="sourcePoint" />
+            <mxPoint x="390" y="1040" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
