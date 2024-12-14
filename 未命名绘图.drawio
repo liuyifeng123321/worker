@@ -58,8 +58,39 @@
         <mxCell id="LvFbN05XxconhEGyaVMj-20" value="结账" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="180" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-24" target="LvFbN05XxconhEGyaVMj-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-24" target="LvFbN05XxconhEGyaVMj-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="635" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="LvFbN05XxconhEGyaVMj-24" value="判断配货方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="180" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-28" target="LvFbN05XxconhEGyaVMj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-28" value="通知送货地址及零食信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="270" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-29" target="LvFbN05XxconhEGyaVMj-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-29" value="后台通知配货信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="100" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-32" value="线上配货" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-33" value="送货上门" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="170" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
