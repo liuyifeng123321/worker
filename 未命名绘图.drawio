@@ -92,6 +92,75 @@
         <mxCell id="LvFbN05XxconhEGyaVMj-34" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="170" width="50" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-37" target="LvFbN05XxconhEGyaVMj-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-37" value="进入加盟页" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="420" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-38" target="LvFbN05XxconhEGyaVMj-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-38" value="请求加盟" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="490" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-39" target="LvFbN05XxconhEGyaVMj-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-39" value="资质审核答题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="555" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-40" target="LvFbN05XxconhEGyaVMj-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-40" target="LvFbN05XxconhEGyaVMj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-40" value="是否合格" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="620" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-45" value="不合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="330" y="510" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-46" target="LvFbN05XxconhEGyaVMj-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-46" value="填写详细加盟信息" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="720" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-50" value="合格" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="270" y="670" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-51" target="LvFbN05XxconhEGyaVMj-52">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-51" value="提交加盟信息&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="720" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-52" target="LvFbN05XxconhEGyaVMj-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-52" value="后台二次审核" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="800" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-58" target="LvFbN05XxconhEGyaVMj-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LvFbN05XxconhEGyaVMj-58" target="LvFbN05XxconhEGyaVMj-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-58" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="885" width="80" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-60" value="成功加盟" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="960" width="80" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-63" value="通过审核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="930" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LvFbN05XxconhEGyaVMj-64" value="未通过审核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="80" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
