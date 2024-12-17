@@ -293,6 +293,24 @@
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-66" value="申请加盟" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="1724" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-67" value="加盟前审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1685" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-68" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1610" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-69" value="会员信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1610" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-71" value="会员积分" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1640" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-74" value="会员等级" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1685" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-75" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1724" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
