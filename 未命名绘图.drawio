@@ -243,13 +243,13 @@
           <mxGeometry x="210" y="1020" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-40" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1580" width="750" height="240" as="geometry" />
+          <mxGeometry x="230" y="1580" width="710" height="210" as="geometry" />
         </mxCell>
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-41" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="265" y="1610" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-42" value="用户相关功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="562.5" y="1580" width="85" height="30" as="geometry" />
+          <mxGeometry x="540" y="1580" width="85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-43" value="首页" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295" y="1610" width="60" height="30" as="geometry" />
@@ -310,6 +310,66 @@
         </mxCell>
         <mxCell id="0YSuCm6jJrnAXz4Us6dJ-75" value="积分兑换" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="780" y="1724" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-76" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1860" width="710" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-77" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="265" y="1890" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-78" value="管理员相关功能" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1860" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-79" value="零食查看" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="295" y="1890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-80" value="七天内售卖流水" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-81" value="不同零食售卖对比" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="1965" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-82" value="零食信息查看" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="275" y="2006" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-83" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="1890" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-84" value="查看会员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-85" value="查看会员信息" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-86" value="会员管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1965" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-88" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1890" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-89" value="加盟审核" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="630" y="1890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-90" value="加盟资格审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="1920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-93" value="加盟前审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1965" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1890" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-95" value="零食管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1890" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-96" value="价格调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1920" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-97" value="下架管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1965" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0YSuCm6jJrnAXz4Us6dJ-98" value="曝光度调整" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="780" y="2004" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
